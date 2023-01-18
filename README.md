@@ -1,6 +1,8 @@
 # Grade 8: Term 1: Science note
 ***This Science note is maken based on Arito Science for the NEW CENTURY***
-
+## RELEASE
+**[Science notes_ version 1.0](https://github.com/Yang-Jiepeng-Jason/Grade_8-Term_1-Science_Note/releases/tag/v1.0)**
+**[Beta releases](https://github.com/Yang-Jiepeng-Jason/Grade_8-Term_1-Science_Note/releases)**
 ## .xmind File
 You need to use Xmind to open this kind of files
 
