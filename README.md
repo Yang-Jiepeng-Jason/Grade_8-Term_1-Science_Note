@@ -1,9 +1,5 @@
 # Grade 8: Term 1: Science note
-***This project will final release in 2023.01.22. Please wait***
-
 ***This Science note is maken based on Arito Science for the NEW CENTURY***
-
-[Aristo Science for the New Century]()
 
 ## .xmind File
 You need to use Xmind to open this kind of files
@@ -17,7 +13,8 @@ https://xmind.cn/download/
 ## License
 Copyright(C) 2023, Yang jiepeng
 
-This file is released under ***Creative Commons Attribution Share Alike 4.0 International***
+This file is released under ***[Creative Commons Attribution Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)***
+
 
 >## Attribution-ShareAlike 4.0 International
 >
@@ -446,3 +443,4 @@ This file is released under ***Creative Commons Attribution Share Alike 4.0 Inte
 >licenses.
 >
 >**Creative Commons may be contacted at creativecommons.org.**
+
