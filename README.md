@@ -2,6 +2,9 @@
 ***This project will final release in 2023.01.22. Please wait***
 
 ***This Science note is maken based on Arito Science for the NEW CENTURY***
+
+[Aristo Science for the New Century]()
+
 ## .xmind File
 You need to use Xmind to open this kind of files
 
