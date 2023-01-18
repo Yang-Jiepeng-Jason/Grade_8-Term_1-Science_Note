@@ -1,5 +1,5 @@
 # Grade 8: Term 1: Science note
-***This project will final release in 2023.02.26. Please wait***
+***This project will final release in 2023.01.22. Please wait***
 
 ***This Science note is maken based on Arito Science for the NEW CENTURY***
 ## .xmind File
